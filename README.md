@@ -1,1 +1,1 @@
-# Atlas-School this is my assignment repo for coding school
+# Atlas-School this is my assignment github account coding school
